@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crypto Sample</string>
+    <string name="text_hint">Text to encrypt</string>
+    <string name="text_button">Run</string>
+    <string name="text_cypher_text_label">Encrypted Text</string>
+    <string name="text_decrypted_text_label">Decrypted Text</string>
+    <string name="text_empty_plain_text">Empty text</string>
+</resources>
